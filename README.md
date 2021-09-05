@@ -1,5 +1,5 @@
 
-
+![me](https://github.com/Palaksharma23/Palaksharma23/blob/main/Palak%20Sharma%20gif.gif)
 <!--
 **Palaksharma23/Palaksharma23** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
