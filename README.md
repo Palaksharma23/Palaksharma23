@@ -28,6 +28,8 @@ Here are some ideas to get you started:
 
 - ⚡ Fun fact **On average, people read 10% slower from a screen than from paper.**
 
+- Gmail : sharmapalak2312@gmail.com
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
