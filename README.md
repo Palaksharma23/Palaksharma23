@@ -8,7 +8,7 @@ Here are some ideas to get you started:
 
 
 <h1 align="center"> Hi there 👋 , I'm Palak Sharma</h1>
-<h3 align="center">A passionate frontend developer</h3>
+<h3 align="center">A passionate and Creative WEB developer and Open-Source Enthusiast</h3>
 
 
  
@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 </span> 
 <br/> </p>
 
-- 💬 Ask me about **Front End Web Development and DSA queries**
+- 💬 Ask me about **Web Development and DSA queries**
 
 - 😄 Pronouns: She/her
 
