@@ -26,11 +26,9 @@ Here are some ideas to get you started:
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/palak-sharma-57256a200/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="palak sharma" height="30" width="40" /></a>
-<a href="https://instagram.com/sharmapalak_23" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="sharmapalak_23" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/palak-sharma-57256a200/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="palak sharma" height="30" width="40" /></a>]
 <a href="https://www.youtube.com/c/palak sharma 23" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="palak sharma 23" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/2020b0101071" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="2020b0101071" height="30" width="40" /></a>
-<a href="https://medium.com/@sharmapalak2312" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@sharmapalak2312" height="30" width="40" /></a>
+ 
 
 </p>
 
